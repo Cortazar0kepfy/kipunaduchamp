@@ -32,5 +32,8 @@ int main()
 
     return 0;
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> c7abfd2 (paniko en las almas del onizuka)
 

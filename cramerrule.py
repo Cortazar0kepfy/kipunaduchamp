@@ -15,7 +15,7 @@ def determinante(matriz):
 
 def regla_de_cramer(matriz, vector):
     n = len(vector)
-    det_matriz = determinate(matriz)
+    det_matriz = determinante(matriz)
     soluciones = []
     for i in range(n):
         matriz_modificada = matriz.copy()

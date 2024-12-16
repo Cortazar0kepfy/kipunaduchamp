@@ -7,7 +7,7 @@ def crear_matriz():
 
 
     print("Introduce los elementos de la matriz, fila por fila:")
-    for  in range(filas):
+    for i in range(filas):
         fila = list(map(float, input(f"Introduce los elementos de la fila {i+1} separados por espacios: ").split()))
         matriz.append(fila)
 

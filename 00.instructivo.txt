@@ -1,0 +1,8 @@
+Este es un listado de los comandos de Unix.....
+#Cortázar Tinajero Luis Enrique...........
+ls    ->listado de archivos
+cd (Nombre del directorio)     ->cambio de directorio.
+
+<<, >>   ->redirección
+
+

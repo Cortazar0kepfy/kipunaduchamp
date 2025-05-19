@@ -105,7 +105,7 @@ if __name__ == "__main__":
     ]
 
     # Mensaje original que se va a cifrar
-    mensaje = "HELLO WORLD"
+    mensaje = "Aylin"
     print("Mensaje original:", mensaje)
 
     # Cifrado del mensaje usando el algoritmo de Hill
